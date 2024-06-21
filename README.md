@@ -1,5 +1,5 @@
 # CRUD Application with H2 Database using Spring Boot
-This respository contains a CRUD application built using Spring Boot and H2 in-memory database with VS Code IDE . It provides a RESTful API to perform CRUD operations on a resource.
+This repository contains a CRUD application developed with Spring Boot and an H2 in-memory database, using the VS Code IDE. It provides a RESTful API for performing CRUD operations on a resource.
 
 ## Setup
 Pre-requisites : 
