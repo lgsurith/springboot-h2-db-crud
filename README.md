@@ -40,6 +40,12 @@ spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 
   ![all](results/get-all-users.png)
 
+- **POST - /users**
+
+  Allows the user to add name and email to h2-db.
+
+  ![post](results/post-user.png)
+
 - **GET - /users/id**
   
   Get a user by an unique ID.
