@@ -58,7 +58,7 @@ spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 
   ![delete](results/delete-by-id.png)
   
-# h2 console :
+## h2 console :
 
 ![result](results/h2-table.png)
 
